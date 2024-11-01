@@ -1,0 +1,418 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/sunset-core\n"
+"POT-Creation-Date: 2022-10-03T12:22:05+00:00\n"
+"PO-Revision-Date: 2022-10-03 15:23+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+
+#. Plugin Name of the plugin
+msgid "Sunset Core"
+msgstr "Sunset Core"
+
+#. Description of the plugin
+msgid ""
+"This plugin was made for the Sunset Theme and adds extra functionality to it."
+msgstr ""
+"Цей плагін розроблений для теми My Sunset та додає додатковий функціонал до "
+"неї."
+
+#. Author of the plugin
+msgid "Bogdan Bendziukov"
+msgstr "Богдан Бендзюков"
+
+#. Author URI of the plugin
+msgid "https://bogdan.kyiv.ua"
+msgstr ""
+
+#: src/init.php:146
+msgid ""
+"Since you enabled sunset-core plugin, then you need to enable <a href=\"%1$s"
+"\" target=\"_blank\">My Sunset theme</a> too"
+msgstr ""
+"Так як ви увімкнули плагін sunset-core, то вже увімкніть нарешті і тему <a "
+"href=\"%1$s\" target=\"_blank\">My Sunset</a> також"
+
+#: src/init.php:162 dist/blocks.build.js:122 src/blocks.js:1044
+msgid "Page options"
+msgstr "Параметри сторінки"
+
+#: src/init.php:171 src/init.php:360 dist/blocks.build.js:122
+#: src/blocks.js:1154
+msgid "Subtitle"
+msgstr "Підзаголовок"
+
+#: src/init.php:261 src/init.php:268 src/init.php:277 src/init.php:286
+#: dist/blocks.build.js:122 src/blocks.js:1002 src/blocks.js:1010
+#: src/blocks.js:1020
+msgid "Inherit from theme's options"
+msgstr "Наслідувати від параметрів теми"
+
+#: src/init.php:262 dist/blocks.build.js:122 src/blocks.js:1003
+msgid "Default"
+msgstr "За замовчуванням"
+
+#: src/init.php:263 dist/blocks.build.js:122 src/blocks.js:1004
+msgid "Cover"
+msgstr "Обкладинка"
+
+#: src/init.php:264 dist/blocks.build.js:122 src/blocks.js:1005
+msgid "Split"
+msgstr "Розділенний"
+
+#: src/init.php:265 dist/blocks.build.js:122 src/blocks.js:1006
+msgid "Big text"
+msgstr "Великий текст"
+
+#: src/init.php:269 dist/blocks.build.js:122 src/blocks.js:130
+#: src/blocks.js:140 src/blocks.js:361 src/blocks.js:565 src/blocks.js:1011
+msgid "None"
+msgstr "Немає"
+
+#: src/init.php:270 dist/blocks.build.js:122 src/blocks.js:131
+#: src/blocks.js:141 src/blocks.js:1012
+msgid "Slide Up"
+msgstr "Слайд вгору"
+
+#: src/init.php:271 dist/blocks.build.js:122 src/blocks.js:132
+#: src/blocks.js:142 src/blocks.js:1013
+msgid "Slide Down"
+msgstr "Слайд вниз"
+
+#: src/init.php:272 dist/blocks.build.js:122 src/blocks.js:137
+#: src/blocks.js:1014
+msgid "Typing"
+msgstr "Печатна машинка"
+
+#: src/init.php:273 dist/blocks.build.js:122 src/blocks.js:1015
+msgid "Zoom In"
+msgstr "Наближення"
+
+#: src/init.php:274 dist/blocks.build.js:122 src/blocks.js:135
+#: src/blocks.js:145 src/blocks.js:1016
+msgid "Fade In"
+msgstr "Проявлення"
+
+#: src/init.php:278 src/init.php:282 src/init.php:287 dist/blocks.build.js:122
+#: src/blocks.js:1021 src/blocks.js:1026
+msgid "Show"
+msgstr "Показати"
+
+#: src/init.php:279 src/init.php:283 src/init.php:288 dist/blocks.build.js:122
+#: src/blocks.js:1022 src/blocks.js:1027
+msgid "Hide"
+msgstr "Сховати"
+
+#: src/init.php:297
+msgid "Page header type"
+msgstr "Тип шапки сторінки"
+
+#: src/init.php:305
+msgid "Page header animation type"
+msgstr "Тип анімації шапки сторінки"
+
+#: src/init.php:313 dist/blocks.build.js:122 src/blocks.js:1073
+msgid "Show breadcrumbs"
+msgstr "Показати навігацію"
+
+#: src/init.php:321 dist/blocks.build.js:122 src/blocks.js:1088
+msgid "Hide title?"
+msgstr "Сховати заголовок сторінки?"
+
+#: src/init.php:488 src/init.php:512
+msgid "Category background"
+msgstr "Колір фону категорії"
+
+#: src/init.php:490 src/init.php:514
+msgid "Select background color for the category or leave blank for default."
+msgstr ""
+"Виберіть колір фону для категорії або залиште поле порожнім для кольору за "
+"замовчуванням."
+
+#: dist/blocks.build.js:122 src/blocks.js:133 src/blocks.js:143
+msgid "Slide Left"
+msgstr "Слайд ліворуч"
+
+#: dist/blocks.build.js:122 src/blocks.js:134 src/blocks.js:144
+msgid "Slide Right"
+msgstr "Слайд праворуч"
+
+#: dist/blocks.build.js:122 src/blocks.js:136 src/blocks.js:146
+msgid "Zoom in"
+msgstr "Наближення"
+
+#: dist/blocks.build.js:122 src/blocks.js:147
+msgid "Zoom out"
+msgstr "Віддалення"
+
+#: dist/blocks.build.js:122 src/blocks.js:157
+msgid "Animation settings"
+msgstr "Параметри анімації"
+
+#: dist/blocks.build.js:122 src/blocks.js:162
+msgid "Animation"
+msgstr "Анімація"
+
+#: dist/blocks.build.js:122 src/blocks.js:234
+msgid "Stroke settings"
+msgstr "Обведення"
+
+#: dist/blocks.build.js:122 src/blocks.js:249
+msgid "Stroke Color"
+msgstr "Колір обведення"
+
+#: dist/blocks.build.js:122 src/blocks.js:258
+msgid "Stroke Width"
+msgstr "Товщина обведення"
+
+#: dist/blocks.build.js:122 src/blocks.js:321
+msgid "Width settings"
+msgstr "Параметри ширини"
+
+#: dist/blocks.build.js:122 src/blocks.js:326
+msgid "Max. Width"
+msgstr "Макс. ширина"
+
+#: dist/blocks.build.js:122 src/blocks.js:362
+msgid "Zoom"
+msgstr "Наближення"
+
+#: dist/blocks.build.js:122 src/blocks.js:363
+msgid "Glitch"
+msgstr "VHS"
+
+#: dist/blocks.build.js:122 src/blocks.js:366
+msgid "Default (on top)"
+msgstr "За замовчуванням (зверху)"
+
+#: dist/blocks.build.js:122 src/blocks.js:367
+msgid "On bottom"
+msgstr "Знизу"
+
+#: dist/blocks.build.js:122 src/blocks.js:368
+msgid "Cover image"
+msgstr "Поверх зображення"
+
+#: dist/blocks.build.js:122 src/blocks.js:379
+msgid "Remove gap"
+msgstr "Прибрати зазор"
+
+#: dist/blocks.build.js:122 src/blocks.js:394
+msgid "Gallery extra settings"
+msgstr "Додаткові параметри галереї"
+
+#: dist/blocks.build.js:122 src/blocks.js:399
+msgid "Show caption on hover"
+msgstr "Показувати підпис при наведенні"
+
+#: dist/blocks.build.js:122 src/blocks.js:407
+msgid "Add border radius"
+msgstr "Додати закруглення до країв"
+
+#: dist/blocks.build.js:122 src/blocks.js:414
+msgid "Hover type"
+msgstr "Тип наведення"
+
+#: dist/blocks.build.js:122 src/blocks.js:422
+msgid "Caption type"
+msgstr "Тип підпису"
+
+#: dist/blocks.build.js:122 src/blocks.js:458
+msgid "Button extra settings"
+msgstr "Додаткові параметри кнопки"
+
+#: dist/blocks.build.js:122 src/blocks.js:463
+msgid "Add magnetic effect"
+msgstr "Додати магнетичний ефект"
+
+#: dist/blocks.build.js:122 src/blocks.js:569
+msgid "Triangle"
+msgstr "Трикутник"
+
+#: dist/blocks.build.js:122 src/blocks.js:574
+msgid "Diamond"
+msgstr "Ромб"
+
+#: dist/blocks.build.js:122 src/blocks.js:579
+msgid "Brush"
+msgstr "Кисть"
+
+#: dist/blocks.build.js:122 src/blocks.js:584
+msgid "Custom"
+msgstr "Довільна"
+
+#: dist/blocks.build.js:122 dist/blocks.build.js:144 src/blocks.js:606
+#: src/runline/runline.js:319
+msgid "Add shadow"
+msgstr "Додати тінь"
+
+#: dist/blocks.build.js:122 src/blocks.js:612
+msgid "Image mask"
+msgstr "Маска зображення"
+
+#: dist/blocks.build.js:122 src/blocks.js:618
+msgid "Select Mask Type"
+msgstr "Оберіть тип маски"
+
+#: dist/blocks.build.js:122 src/blocks.js:641
+msgid "Choose Mask Image"
+msgstr "Оберіть маску для зображення"
+
+#: dist/blocks.build.js:122 src/blocks.js:772
+msgid "Circle style"
+msgstr "Коло"
+
+#: dist/blocks.build.js:122 src/blocks.js:776
+msgid "Sticky column"
+msgstr "Липка колонка"
+
+#: dist/blocks.build.js:122 src/blocks.js:780
+msgid "Square grid"
+msgstr "Квадратна сітка"
+
+#: dist/blocks.build.js:122 src/blocks.js:784
+msgid "Portrait grid"
+msgstr "Портретна сітка"
+
+#: dist/blocks.build.js:122 src/blocks.js:788
+msgid "Landscape grid"
+msgstr "Альбомна сітка"
+
+#: dist/blocks.build.js:122 src/blocks.js:792
+msgid "Chaotic grid"
+msgstr "Хаотична сітка"
+
+#: dist/blocks.build.js:122 src/blocks.js:1046
+msgid "Header Type"
+msgstr "Тип шапки сторінки"
+
+#: dist/blocks.build.js:122 src/blocks.js:1059
+msgid "Header Animation Type"
+msgstr "Тип анімації шапки сторінки"
+
+#: dist/blocks.build.js:122 src/blocks.js:1103
+msgid "Hide page paddings"
+msgstr "Сховати відступи сторінки зверху та знизу"
+
+#: dist/blocks.build.js:122 src/blocks.js:1156
+msgid "Write subtitle (optional)"
+msgstr "Напишіть підзаголовок (за бажанням)"
+
+#: dist/blocks.build.js:144 src/runline/runline.js:40
+msgid "Running line"
+msgstr "Біжучий рядок"
+
+#: dist/blocks.build.js:144 src/runline/runline.js:41
+msgid "Display a running line with text and inline images."
+msgstr "Показує біжучий рядок з текстом та зображеннями."
+
+#: dist/blocks.build.js:144 src/runline/runline.js:45
+msgid "running line"
+msgstr "біжучий рядок"
+
+#: dist/blocks.build.js:144 src/runline/runline.js:45
+msgid "line"
+msgstr "рядок"
+
+#: dist/blocks.build.js:144 src/runline/runline.js:45
+msgid "ticker"
+msgstr "тикер"
+
+#: dist/blocks.build.js:144 dist/blocks.build.js:175
+#: src/circular-text/circular-text.js:199 src/runline/runline.js:266
+msgid "Preview"
+msgstr "Попередній перегляд"
+
+#: dist/blocks.build.js:144 dist/blocks.build.js:175
+#: src/circular-text/circular-text.js:199 src/runline/runline.js:266
+msgid "Edit"
+msgstr "Редагувати"
+
+#: dist/blocks.build.js:144 dist/blocks.build.js:175
+#: src/circular-text/circular-text.js:212 src/runline/runline.js:281
+msgid "Color settings"
+msgstr "Параметри кольору"
+
+#: dist/blocks.build.js:144 src/runline/runline.js:286
+msgid "Background color"
+msgstr "Колір фону"
+
+#: dist/blocks.build.js:144 dist/blocks.build.js:175
+#: src/circular-text/circular-text.js:217 src/runline/runline.js:291
+msgid "Text color"
+msgstr "Колір тексту"
+
+#: dist/blocks.build.js:144 src/runline/runline.js:296
+msgid "Runline settings"
+msgstr "Параметри біжучого рядка"
+
+#: dist/blocks.build.js:144 src/runline/runline.js:305
+msgid "Line angle"
+msgstr "Кут нахилу рядка"
+
+#: dist/blocks.build.js:144 src/runline/runline.js:314
+msgid "Line speed"
+msgstr "Швидкість біжучої строки"
+
+#: dist/blocks.build.js:144 src/runline/runline.js:326
+msgid "Pause on hover"
+msgstr "Зупинити при наведенні"
+
+#: dist/blocks.build.js:144 src/runline/runline.js:333
+msgid "Switch direction"
+msgstr "Змінити напрямок"
+
+#: dist/blocks.build.js:144 dist/blocks.build.js:175
+#: src/circular-text/circular-text.js:254 src/runline/runline.js:349
+msgid "Write a text here…"
+msgstr "Напишіть текст тут…"
+
+#: dist/blocks.build.js:175 src/circular-text/circular-text.js:41
+msgid "Circular text"
+msgstr "Круговий текст"
+
+#: dist/blocks.build.js:175 src/circular-text/circular-text.js:42
+msgid "Display a circle shaped text."
+msgstr "Показує текст у формі кола."
+
+#: dist/blocks.build.js:175 src/circular-text/circular-text.js:46
+msgid "circular text"
+msgstr "круговий текст"
+
+#: dist/blocks.build.js:175 src/circular-text/circular-text.js:46
+msgid "circular"
+msgstr "круговий"
+
+#: dist/blocks.build.js:175 src/circular-text/circular-text.js:46
+msgid "text"
+msgstr "текст"
+
+#: dist/blocks.build.js:175 src/circular-text/circular-text.js:222
+msgid "Circular text settings"
+msgstr "Параметри кругового тексту"
+
+#: dist/blocks.build.js:175 src/circular-text/circular-text.js:231
+msgid "Rotating speed"
+msgstr "Швидкість обертання"
+
+#: dist/blocks.build.js:175 src/circular-text/circular-text.js:240
+msgid "Circle size"
+msgstr "Розмір кола"
+
+#~ msgid "Type"
+#~ msgstr "Печатна машинка"
+
+#~ msgid "Image extra settings"
+#~ msgstr "Додаткові параметри зображення"
